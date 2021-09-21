@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GBENGAOLANIPEKUN\\desktop\\double-it\\DoubleIt.csproj",
+      "projectUniqueName": "C:\\Users\\GBENGAOLANIPEKUN\\Desktop\\double-it\\DoubleIt.csproj",
       "projectName": "DoubleIt",
-      "projectPath": "C:\\Users\\GBENGAOLANIPEKUN\\desktop\\double-it\\DoubleIt.csproj",
+      "projectPath": "C:\\Users\\GBENGAOLANIPEKUN\\Desktop\\double-it\\DoubleIt.csproj",
       "packagesPath": "C:\\Users\\GBENGAOLANIPEKUN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GBENGAOLANIPEKUN\\desktop\\double-it\\obj\\",
+      "outputPath": "C:\\Users\\GBENGAOLANIPEKUN\\Desktop\\double-it\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GBENGAOLANIPEKUN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

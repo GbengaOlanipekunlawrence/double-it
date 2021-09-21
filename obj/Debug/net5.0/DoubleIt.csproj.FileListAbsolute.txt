@@ -1,4 +1,3 @@
-C:\Users\GBENGAOLANIPEKUN\desktop\double-it\obj\Debug\net5.0\DoubleIt.csprojAssemblyReference.cache
 C:\Users\GBENGAOLANIPEKUN\desktop\double-it\obj\Debug\net5.0\DoubleIt.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\GBENGAOLANIPEKUN\desktop\double-it\obj\Debug\net5.0\DoubleIt.AssemblyInfoInputs.cache
 C:\Users\GBENGAOLANIPEKUN\desktop\double-it\obj\Debug\net5.0\DoubleIt.AssemblyInfo.cs
@@ -14,3 +13,4 @@ C:\Users\GBENGAOLANIPEKUN\desktop\double-it\obj\Debug\net5.0\DoubleIt.dll
 C:\Users\GBENGAOLANIPEKUN\desktop\double-it\obj\Debug\net5.0\ref\DoubleIt.dll
 C:\Users\GBENGAOLANIPEKUN\desktop\double-it\obj\Debug\net5.0\DoubleIt.pdb
 C:\Users\GBENGAOLANIPEKUN\desktop\double-it\obj\Debug\net5.0\DoubleIt.genruntimeconfig.cache
+C:\Users\GBENGAOLANIPEKUN\Desktop\double-it\obj\Debug\net5.0\DoubleIt.csproj.AssemblyReference.cache
